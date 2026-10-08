@@ -1,4 +1,4 @@
-<!-- Zphisher -->
+https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge<!-- Zphisher -->
 
 <p align="center">
   <img src=".github/misc/logo.png">
